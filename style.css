@@ -1,0 +1,98 @@
+
+.banner-text{
+    width: 100%;
+    position: absolute;
+
+}
+
+#button-panel {
+  width: 250px;
+  padding-top:10px;
+}
+
+.centro{
+    top:50%;
+    left: 50%;
+    
+
+}
+#calculator {
+  width:202px;
+  background: #9dd2ea;
+  background: linear-gradient(#9dd2ea, #8bceec);
+  padding-left:11px;
+  padding-right:7px;
+  border-radius:7px;
+  padding-top:10px;
+  padding-bottom:10px;
+  box-shadow:4px 4px 8px #808080;
+}
+
+#button-panel button {
+  width: 60px;
+  height: 48px;
+  border-radius: 7px;
+  outline: none;
+  border: 1px solid #999;
+  box-shadow: 1px 1px 2px #808080;
+  background-color: #f1ff92;
+  margin: 1px;
+}
+
+#button-panel button:hover{
+  background-color:#f1ff92;
+}
+
+#button-panel button:active{
+  background-color:#abb850;
+}
+
+#button-panel .wide {
+  width: 59px;
+}
+
+#button-panel .zero {
+  width: 59px;
+}
+
+#button-panel .tall{
+  height:198px;
+  float:right;
+  padding-top:45px;
+  margin-right:41px;
+  margin-top: -49px;
+}
+
+#display {
+  background-color: #fff;
+  width: 185px;
+  height: 35px;
+  margin: 3px;
+  padding: 5px;
+  text-align: right;
+  line-height: 10px;
+  font-family: sans-serif;
+  margin-bottom: 0.5px;
+  border-radius:3.5px;
+}
+
+
+  #displaytwo {
+  background-color: #fff;
+  width: 185px;
+  height: 35px;
+  margin: 3px;
+  padding: 5px;
+  text-align: right;
+  line-height: 10px;
+  font-family: sans-serif;
+  margin-bottom: 0.5px;
+  border-radius:3.5px;
+  
+
+}
+#operator {
+  margin-top:20px;
+  margin-right:119px;
+
+}
